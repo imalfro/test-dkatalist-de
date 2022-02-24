@@ -146,5 +146,5 @@ if __name__ == '__main__':
     print('at ts:1578654000000 the balance is set 21000') 
     print('-- there was a WITHDRAWAL TRANSACTION in amount 40000-21000 = 19000')
     print('at ts:1579505400000 the balance is set 33000'
-    print('-- there was a DEPOSIT TRANSACTION in amount 33000-21000 = 19000')
+    print('-- there was a DEPOSIT TRANSACTION in amount 33000-21000 = 12000')
     print('')
