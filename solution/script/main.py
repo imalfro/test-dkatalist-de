@@ -141,7 +141,7 @@ if __name__ == '__main__':
     print('Saving account is created at ts:1577890800000')
     print('')
     print('At ts:1577955600000 the balance is set 15000') 
-    print('-- it becomes HIGHER than previous balance which was NULL')
+    print('-- it becomes HIGHER than previous balance which was NULL or zero')
     print('-- there was a DEPOSIT/FUND-RECEIVING TRANSACTION in amount 15000')
     print('at ts:1578648600000 the balance is set 40000')
     print('-- it becomes HIGHER than previous balance which was 15000')
