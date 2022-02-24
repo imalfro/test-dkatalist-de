@@ -7,5 +7,4 @@ TO BUILD AND RUNNING:
 3. to build: docker build -t test_de_dkatalist .
 4. to run: docker run test_de_dkatalist
 
-CONCLUSION (TASK-3) IS AVAILABLE IN THE SCRIPT
-The result should be printed as well.
+CONCLUSION (TASK-3) should be printed as well, upon running the docker.
